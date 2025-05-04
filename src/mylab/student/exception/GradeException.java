@@ -1,4 +1,4 @@
-package lab.student.exception;
+package mylab.student.exception;
 
 public class GradeException extends Exception {
 	

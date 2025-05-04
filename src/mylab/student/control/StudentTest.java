@@ -1,6 +1,6 @@
-package lab.student.control;
-import lab.student.entity.Student;
-import lab.student.exception.GradeException;
+package mylab.student.control;
+import mylab.student.entity.Student;
+import mylab.student.exception.GradeException;
 public class StudentTest {
 
 	public static void main(String[] args) {

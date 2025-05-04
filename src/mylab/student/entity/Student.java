@@ -1,5 +1,5 @@
-package lab.student.entity;
-import lab.student.exception.GradeException;
+package mylab.student.entity;
+import mylab.student.exception.GradeException;
 public class Student {
 	private String studentId;
 	private String name;
